@@ -2,13 +2,13 @@
 
 #### Text Books and materials used
 
-- [] Kubernetes Up and Running
+- [ ] Kubernetes Up and Running
 
-- [] 50 Kubernetes Concept Every DevOps engineer should Know
+- [ ] 50 Kubernetes Concept Every DevOps engineer should Know
 
-- [] Kubernetes Best Practices
+- [ ] Kubernetes Best Practices
 
-- [] Cloud Native Devops with Kubernetest
+- [ ] Cloud Native Devops with Kubernetest
 
 I would be sharing details base on Books used as as a Branch on this repo
 
