@@ -9,7 +9,8 @@
 - [] Kubernetes Best Practices
 
 - [] Cloud Native Devops with Kubernetest
-I would be sharing details base on Books used as as a Branch
+
+I would be sharing details base on Books used as as a Branch on this repo
 
 Let's try out Terraform
 Install Terraform
