@@ -1,4 +1,4 @@
 # Ignore Terraform state files
-100Day/.terraform.lock.hcl
-100Day/terraform.tfstate
-100Day/terraform.tfvars
+100DAY/.terraform.lock.hcl
+100DAY/terraform.tfstate
+100DAY/terraform.tfvars
