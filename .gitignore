@@ -1,10 +1,10 @@
 # Ignore Terraform state files
-/.tfstate
-/.tfstate.*
-./.backup
+100Day/*.tfstate
+100Day/.tfstate.*
+
 
 # Ignore .terraform directory
 ./.terraform/
 
 # Ignore .terraform.lock.hcl if you're using it
-./terraform.lock.hcl
+100Day/terraform.lock.hcl
