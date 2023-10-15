@@ -2,10 +2,3 @@
 100Day/.terraform.lock.hcl
 100Day/terraform.tfstate
 100Day/terraform.tfvars
-
-
-# Ignore .terraform directory
-./.terraform/
-
-# Ignore .terraform.lock.hcl if you're using it
-100Day/terraform.lock.hcl
