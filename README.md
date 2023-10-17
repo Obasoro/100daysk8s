@@ -56,4 +56,12 @@ Once we have finished setting up our resources, we want to destroy them "terrafo
 
  Understanding the resource usage in Kubernetes is essential
 
+ Resource Unit is expressed in CPU, which determine how the schedular allocate resource to the system
+
+ Resource Request means the minimum amount of resources a pod can or needs to run
+
+ Resource Limit is the maximum amount of resources a pod can be allocated with or use
+
+  - [ ] Keeping your image small has a lot of importance. The resource limit and also for security issues. Keep your area small
+
 
