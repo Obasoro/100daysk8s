@@ -26,30 +26,34 @@ Once we have finished setting up our resources, we want to destroy them "terrafo
 
 ### Networking
 
-*clusterIP* is used by default and allow communication between cluster
+*clusterIP* is used by default and allows communication between cluster
 
-*NodePort* Alloww for communication outside access
+*NodePort* Allows for communication outside access
 
-*LoadBalancer* is useful for routing traffic between container within pods
+*LoadBalancer* is useful for routing traffic between containers within pods
 
 - First, 
 
 ### Service Mesh
- - A service mesh is an infrsatructure layer in your application that facilitate communication between services. Service mesh provide capabilities like traffic management, resilency, policy, security, strong identity, and observability to your workload. Your application. Service mesh allow ensures that communication among containerized and often ephemeral application infrastructure services is fast, reliable, and secure. It provides service discovery, load balancing, encryption, observability, tracibility, authentication and authorization, and support for the cirt]cuit breaker pattern
+ - A service mesh is an infrastructure layer in your application that facilitates communication between services. Service mesh provides capabilities like traffic management, resiliency, policy, security, strong identity, and observability to your workload. Your application. Service mesh allow ensures that communication among containerized and often ephemeral application infrastructure services is fast, reliable, and secure. It provides service discovery, load balancing, encryption, observability, traceability, authentication and authorization, and support for the cirt]cuit breaker pattern
 
  ### Scenario
  - Encrypting all traffic
- - Canary and phase roolout
+ - Canary and phase rollout
  - Traffic management and manipulation
  - Observability
 
  Before selecting *service mesh* have a good understanding of your requirement for installing a service mesh.
 
  - is an ingress controller sufficient for my needs
- - can my workload and environment tolerate and additional oveerheads
+ - can my workload and environment tolerate additional overheads
  -
 
  [Microsoft](https://learn.microsoft.com/en-us/azure/aks/servicemesh-about) 
  [Nginx](https://www.nginx.com/blog/what-is-a-service-mesh/)
+
+ ### Cloud-native DevOps for DevOps
+
+ Understanding the resource usage in Kubernetes is essential
 
 
